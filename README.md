@@ -1,8 +1,6 @@
-# Design Patterns in JavaScript
+# Design Patterns
 
-Design patterns written in JavaScript.
-
-# Design Pattern
+Design patterns written in multiple programming languages.
 
 ## Definition
 
@@ -36,7 +34,17 @@ In my opinion, this defines very well what a design pattern is.
 | Behavioral patterns | Command | [Go to detail 📄](./CommandPattern/README.md) |
 | Behavioral patterns | Null Object | [Go to detail 📄](./NullObjectPattern/README.md) |
 
-> **_NOTES:_**: I will be adding more design patterns
+Another design patterns that I will add in the future:
+
+- [ ] Factory
+- [ ] Oberserver
+- [ ] Decorator
+- [ ] Strategy
+- [ ] Adapter
+- [ ] Iterator
+- [ ] Proxy
+- [ ] Composite
+- [ ] Bridge
 
 # Setup
 
@@ -51,19 +59,13 @@ Create and go to the directory where you want to place the repository
 Clone the project
 
 ```bash
-  git clone https://github.com/pncsoares/design-patterns-in-javascript.git
+  git clone https://github.com/pncsoares/design-patterns.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd design-patterns-in-javascript
-```
-
-Open in Visual Studio Code
-
-```bash
-  code .
+  cd design-patterns
 ```
 
 # License
