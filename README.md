@@ -1,6 +1,6 @@
 # Design Patterns
 
-Design patterns written in multiple programming languages.
+Design patterns written in JavaScript and TypeScript.
 
 ## Definition
 
@@ -59,13 +59,13 @@ Create and go to the directory where you want to place the repository
 Clone the project
 
 ```bash
-  git clone https://github.com/pncsoares/design-patterns.git
+  git clone https://github.com/pncsoares/javascript-design-patterns.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd design-patterns
+  cd javascript-design-patterns
 ```
 
 # License
