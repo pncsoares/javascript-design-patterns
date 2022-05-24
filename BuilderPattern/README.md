@@ -2,7 +2,7 @@
 
 Separate the construction of a complex object from its representation, allowing the same construction process to create various representations.
 
-💡 Usefull when you need to create objects that have many different working parts that need to all come together to create one single object.
+💡 Useful when you need to create objects that have many different working parts that need to all come together to create one single object.
 
 ## Advantages
 

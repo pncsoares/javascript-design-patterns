@@ -37,7 +37,7 @@ In my opinion, this defines very well what a design pattern is.
 Another design patterns that I will add in the future:
 
 - [ ] Factory
-- [ ] Oberserver
+- [ ] Observer
 - [ ] Decorator
 - [ ] Strategy
 - [ ] Adapter
